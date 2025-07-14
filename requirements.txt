@@ -1,0 +1,4 @@
+beautifulsoup4
+dotenv
+undetected-chromedriver
+discord.py
