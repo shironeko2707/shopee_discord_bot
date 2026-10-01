@@ -1,4 +1,6 @@
 beautifulsoup4
-dotenv
-undetected-chromedriver
+python-dotenv
 discord.py
+schedule
+playwright
+hcaptcha-challenger

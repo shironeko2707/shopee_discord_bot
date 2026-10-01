@@ -1,2 +1,17 @@
 .env
 .claude
+
+# Browser profiles
+shopee_profile/
+shopee_profile_pw/
+
+# Captcha solver models and temp files
+captcha_tmp/
+
+# Promo history
+promo_history.json
+
+# Debug/output files
+shopee_page_source.html
+promo_debug_*.html
+*.png
